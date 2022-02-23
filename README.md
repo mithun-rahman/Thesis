@@ -1,3 +1,4 @@
 # Inventory Demand Forecasting and Predictive Analysis using e-commerce Big Data
 
-This repository contains our last year thesis related all code.
+This is our under graduate level thesis. 
+This repository contains our thesis related all code.

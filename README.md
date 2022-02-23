@@ -1,5 +1,6 @@
 # Inventory Demand Forecasting and Predictive Analysis using e-Commerce Big Data
-
+## Kazi Fardin Islam Abir(170213) and Md. Mithun Rahman(170225)
+### Computer Science & Engineering Discipline, Khulna University.
 This is our under graduate level thesis. 
 This repository contains our thesis related all code.
 
